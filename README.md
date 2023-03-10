@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/kunal-kulkarni-a9b706255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-kulkarni-a9b706255" height="30" width="40" /></a>
 <a href="https://instagram.com/bunny_fussion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bunny_fussion" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@n1tro." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="n1tro" height="30" width="40" /></a>
-<a href="[https://discord.gg/https://discord.gg/pfgCPkzf](https://discord.gg/Jgn7nRgsqq)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/pfgCPkzf" height="30" width="40" /></a>
+<a href="https://discord.gg/Jgn7nRgsqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/pfgCPkzf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
