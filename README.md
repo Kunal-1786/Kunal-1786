@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Kunal Kulkarni</h1>
-<h3 align="center">A passionate Website and Android developer from India</h3>
+<h3 align="center">A passionate Full Stact Developer from India</h3>
 
 <img align="right" alt="coding" widht="290" src="https://github.com/Kunal-1786/Kunal-1786/blob/main/coding.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-1786&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-1786" /> </p>
 
-- 🔭 I’m currently working on Android Application: **College Management App**
+- 🔭 I’m currently working on Backend Project
 
-- 🌱 I’m currently learning Android Development **Course: PerfectLearning Android Development**
+- 🌱 I’m currently learning Backend Development **Course: Spring**
 
 - 📫 How to reach me: **kunalaps2002@gmail.com**
 
