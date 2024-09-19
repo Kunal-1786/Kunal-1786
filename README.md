@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Backend Development **Course: Spring**
 
-- 📫 How to reach me: **kunalaps2002@gmail.com**
+- 📫 How to reach me: **kunalkulkarnicomp@gmail.com**
 
 - ⚡ Fun fact: **The internet was created by Sir Tim Burner Lee in 1989.**
 
